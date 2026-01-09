@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'plato_jobs_cache_manager'
-  s.version          = '0.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'A powerful cache manager plugin for Flutter'
   s.description      = <<-DESC
 A powerful cache manager plugin for Flutter, supporting Android and iOS platforms with enhanced features.

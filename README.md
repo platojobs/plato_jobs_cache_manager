@@ -29,7 +29,7 @@ Or if published to pub.dev:
 
 ```yaml
 dependencies:
-  plato_jobs_cache_manager: ^0.0.1
+  plato_jobs_cache_manager: ^1.0.0
 ```
 
 ## Usage
@@ -159,6 +159,7 @@ await cacheManager.cleanup();
 
 - ✅ Android (minSdk: 24)
 - ✅ iOS (minVersion: 13.0)
+- ✅ Swift Package Manager (iOS)
 
 ## Key Features
 
